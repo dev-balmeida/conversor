@@ -2,7 +2,7 @@
 
 >Status: **Desenvolvendo**💻
 
-## Bem-vindos ao meu primeiro Challenge ONE Back End - Java!
+## Bem-vindos ao meu Challenge ONE Back End - Java!
 
 ![gif_conversor](https://user-images.githubusercontent.com/100288801/224197300-2786c535-71e1-49ff-8df0-41b22e98c0f5.gif)
 
@@ -10,7 +10,7 @@
 
 Desafio do Alura + ONE onde tivemos que trabalhar na criação de um conversor de moeda utilizando a linguagem Java.
 
-#### Elementos principais da página:
+#### Elementos principais do programa:
 
 - Menu principal;
 - Opções para converter moeda, número binário ou temperatura;
